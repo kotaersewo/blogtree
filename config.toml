@@ -1,4 +1,4 @@
-baseurl = "https://www.ardianta.com"
+baseurl = "https://blogtree.vercel.app/"
 title = "Ardianta"
 theme = "pargo"
 
